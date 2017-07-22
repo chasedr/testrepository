@@ -5,3 +5,5 @@ return 0;
 }
 
 
+void func1()
+{}
